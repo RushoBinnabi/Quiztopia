@@ -1,0 +1,23 @@
+.Login {
+    height: 100vh;
+    background: linear-gradient(to top, #d896ff 25%, #efbbff 50%);
+    text-align: center;
+}
+h1 {
+    padding-top: 100px;
+}
+.usr {
+    text-align: center;
+    margin-bottom: 8px;
+    margin-right: 30px;
+  }
+  .usr label {
+    padding-right: 5px;
+  }
+  .psw {
+    text-align: center;
+    margin-bottom: 8px;
+  }
+  
+  
+

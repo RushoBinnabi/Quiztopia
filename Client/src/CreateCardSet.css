@@ -1,0 +1,29 @@
+
+.CreateCardSet {
+    height: 100vh;
+    background: linear-gradient(to top, #d896ff 25%, #efbbff 50%);
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 10px;;
+}
+
+.CreateCardSet{
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.title label{
+    text-align: center;
+}
+
+.title label {
+    padding-left: 10px;
+}
+
+.desc {
+    text-align: center;
+    padding-bottom: 15px;
+    padding-right: 40px;
+}

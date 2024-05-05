@@ -1,0 +1,144 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* css data so the app can be matched up with the mockups */
+
+.center {
+  margin-left: auto;
+  margin-right: 20%;
+  margin-top: 15%;
+  max-width: 10%;
+}
+
+.background {
+  height: 100vh;
+  background: linear-gradient(to top, #d896ff 25%, #efbbff 50%);
+}
+
+.inputBoxSizes {
+  padding-right: 5px;
+  padding-bottom: 6px;
+}
+
+.signupButtonSpacing {
+  margin-right: 50px;
+  margin-top: auto;
+}
+
+.logoSpacingLoginPage {
+  margin-left: 7%;
+  margin-right: auto;
+  margin-top: -20%;
+}
+
+.logoSpacingSignupPage {
+  margin-left: 7%;
+  margin-right: auto;
+  margin-top: -20%;
+}
+
+.aboutPageList {
+  margin-left: 4%;
+  margin-right: auto;
+  margin-top: 12%;
+  font-size: 22px;
+}
+
+.logoSpacingHomepage {
+  margin-left: 34%;
+  margin-right: auto;
+  margin-top: 6%;
+}
+
+.createAccountButtonSpacing {
+  margin-left: 30px;
+}
+
+.navbar-center {
+  float: none;
+  position: relative;
+  /* top: 50%; */
+  top: 10%;
+  left: 49.6%;
+  padding: 7px;
+  transform: translate(-50%, -50%);
+  background-color: #6497b1;
+  max-width: fit-content;
+  overflow: hidden;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 25px;
+}
+
+.navbar-center a {
+  color: black;
+  text-align: center;
+  padding-bottom: 14px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.navbar-center a:hover {
+  background-color: #7a7bb6;
+  margin-bottom: -20px;
+  border-radius: 15px;
+  padding: 3px 3px 4px 5px;
+}
+
+
+.quiztopiaNavBarTitle {
+  float: none;
+  position: relative;
+  top: 50%;
+  left: 49.6%;
+  padding: 7px;
+  transform: translate(-50%, -50%);
+  max-width: fit-content;
+  overflow: hidden;
+  text-align: center;
+  font-size: 27px;
+}
+
+.aboutPageHomeButton {
+  margin-left: 25%;
+  margin-right: auto;
+  margin-top: -150%;
+}
+
+/* css data so the app can be matched up with the mockups */
