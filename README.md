@@ -1,6 +1,6 @@
 # Description
 
-This Quiztopia web app project is a version of the Quizlet website.
+This Quiztopia web app project that we created is a version of the Quizlet website.
 
 # Implementation:
 
